@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|c:\\users\\dell\\downloads\\clubsphere\\clubsphere\\clubsphere\\admin\\addpost.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|solutionrelative:clubsphere\\admin\\addpost.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\clubsphere\\admin\\addpoll.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|solutionrelative:clubsphere\\admin\\addpoll.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\clubsphere\\admin\\addclub.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|solutionrelative:clubsphere\\admin\\addclub.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\clubsphere\\admin\\addclub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|solutionrelative:clubsphere\\admin\\addclub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\clubsphere\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|solutionrelative:clubsphere\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\clubsphere\\models\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529A7181-76A2-402D-AFD2-AEACB41F2C30}|ClubSphere\\ClubSphere.csproj|solutionrelative:clubsphere\\models\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddPost.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Admin\\AddPost.aspx.cs",
+              "RelativeDocumentMoniker": "ClubSphere\\Admin\\AddPost.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Admin\\AddPost.aspx.cs",
+              "RelativeToolTip": "ClubSphere\\Admin\\AddPost.aspx.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:53:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPoll.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Admin\\AddPoll.aspx.cs",
+              "RelativeDocumentMoniker": "ClubSphere\\Admin\\AddPoll.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Admin\\AddPoll.aspx.cs",
+              "RelativeToolTip": "ClubSphere\\Admin\\AddPoll.aspx.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:46:20.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddClub.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Admin\\AddClub.aspx",
+              "RelativeDocumentMoniker": "ClubSphere\\Admin\\AddClub.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Admin\\AddClub.aspx",
+              "RelativeToolTip": "ClubSphere\\Admin\\AddClub.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T16:21:59.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddClub.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Admin\\AddClub.aspx.cs",
+              "RelativeDocumentMoniker": "ClubSphere\\Admin\\AddClub.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Admin\\AddClub.aspx.cs",
+              "RelativeToolTip": "ClubSphere\\Admin\\AddClub.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:16:22.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Web.config",
+              "RelativeDocumentMoniker": "ClubSphere\\Web.config",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Web.config",
+              "RelativeToolTip": "ClubSphere\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-09T00:20:57.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Models\\EmailService.cs",
+              "RelativeDocumentMoniker": "ClubSphere\\Models\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\ClubSphere\\ClubSphere\\ClubSphere\\Models\\EmailService.cs",
+              "RelativeToolTip": "ClubSphere\\Models\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:31:58.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
